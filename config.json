@@ -1,8 +1,5 @@
 {
   "showSidebar": true
-}
-
-{
   "nav": {
     "links": [
       {
@@ -15,8 +12,6 @@
       }
     ]
   }
-}
-{
   "nav": {
     "logo": "logo.jpeg",
     "title": "My Digital Garden",
